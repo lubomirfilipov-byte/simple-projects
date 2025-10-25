@@ -2,7 +2,7 @@
 
 namespace MyProgram
 {
-    class Zadacha1
+    class Rng_Game
     {
         static void Main(string[] args)
         {
